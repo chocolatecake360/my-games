@@ -1,0 +1,10 @@
+D:\SELiM\Klasorlerim\vscode\games\Clicker\bin\Release\Clicker.exe.config
+D:\SELiM\Klasorlerim\vscode\games\Clicker\bin\Release\Clicker.exe
+D:\SELiM\Klasorlerim\vscode\games\Clicker\bin\Release\Clicker.pdb
+D:\SELiM\Klasorlerim\vscode\games\Clicker\obj\Release\Clicker.csproj.AssemblyReference.cache
+D:\SELiM\Klasorlerim\vscode\games\Clicker\obj\Release\Clicker.Form1.resources
+D:\SELiM\Klasorlerim\vscode\games\Clicker\obj\Release\Clicker.Properties.Resources.resources
+D:\SELiM\Klasorlerim\vscode\games\Clicker\obj\Release\Clicker.csproj.GenerateResource.cache
+D:\SELiM\Klasorlerim\vscode\games\Clicker\obj\Release\Clicker.csproj.CoreCompileInputs.cache
+D:\SELiM\Klasorlerim\vscode\games\Clicker\obj\Release\Clicker.exe
+D:\SELiM\Klasorlerim\vscode\games\Clicker\obj\Release\Clicker.pdb
