@@ -1,0 +1,10 @@
+D:\SELiM\Klasorlerim\vscode\Topitop\bin\Debug\Topitop.exe.config
+D:\SELiM\Klasorlerim\vscode\Topitop\bin\Debug\Topitop.exe
+D:\SELiM\Klasorlerim\vscode\Topitop\bin\Debug\Topitop.pdb
+D:\SELiM\Klasorlerim\vscode\Topitop\obj\Debug\Topitop.csproj.AssemblyReference.cache
+D:\SELiM\Klasorlerim\vscode\Topitop\obj\Debug\Topitop.Form1.resources
+D:\SELiM\Klasorlerim\vscode\Topitop\obj\Debug\Topitop.Properties.Resources.resources
+D:\SELiM\Klasorlerim\vscode\Topitop\obj\Debug\Topitop.csproj.GenerateResource.cache
+D:\SELiM\Klasorlerim\vscode\Topitop\obj\Debug\Topitop.csproj.CoreCompileInputs.cache
+D:\SELiM\Klasorlerim\vscode\Topitop\obj\Debug\Topitop.exe
+D:\SELiM\Klasorlerim\vscode\Topitop\obj\Debug\Topitop.pdb
